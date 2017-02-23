@@ -9,7 +9,7 @@ The following tools need to be installed for the workshop:
 ## Material
 * [A presentation](https://github.com/dvdkruk/xtext-workshop/tree/master/org.example.domainmodel.exercises)
 * [Exercise files](https://github.com/dvdkruk/xtext-workshop/tree/master/org.example.domainmodel.exercises/exercisefiles)
-* [A possible implementation outcome of the workshop](https://github.com/dvdkruk/xtext-workshop/tree/master/org.example.domainmodel.exercises/exercisefiles)
+* [A possible implementation outcome of the workshop](https://github.com/dvdkruk/xtext-workshop)
 
 ## Projects
 * org.example.domainmodel.exercises - Contains the presentation and exercise files
