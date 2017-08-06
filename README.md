@@ -1,4 +1,4 @@
-# xtext-workshop
+# Xtext Workshop
 This is a workshop about Xtext for beginners. The goal of the workshop is that the student creates a grammar, code generation and validation for a domain-specific language (DSL) with Xtext. This workshop is based on the examples used in the [15 Minutes Tutorial](https://eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html) on the Xtext website. The workshop is designed to give to groups up to 15 persons.
 
 ## Preperation
